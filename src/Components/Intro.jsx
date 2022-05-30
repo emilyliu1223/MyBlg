@@ -75,17 +75,15 @@ function Intro() {
            
             <div className="link-div">
         <a href="https://github.com/emilyliu1223"><img src={github} style={{width:"30px"}}alt=""/></a>
-       <a href="https://www.linkedin.com/in/liu-tingyu-25728a185/"> <img src={linkdin} style={{width:"30px"}}alt=""/></a>
+       <a href="https://www.linkedin.com/in/tingyu-liu-25728a185/"> <img src={linkdin} style={{width:"30px"}}alt=""/></a>
         <a href={"mailto:" + "emilyjujmjjujmj0@gmail.com"}><img src={gmail} style={{width:"30px"}}alt=""/></a>
     </div>
             </div>
     <div className="content-div">
     <div style={{listStyleType:"none"}}>
-            <div>I am actively searching for 
-              an intern opportunity 
-              as a software developer.
-              Creativity driven and cooperative is my objective. 
-              And thank you for taking time looking at my resume! 
+            <div>Greetings! I am Tingyu, you can call me Emily. My expertise 
+              is full-stack software development. I have a master degree in Information Systems and 2 years of 
+              professional experience. Feel free to browse my repositories and leave me a message via email!
               </div>       
         </div>
     </div>
