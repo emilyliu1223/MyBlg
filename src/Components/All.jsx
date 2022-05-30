@@ -49,12 +49,18 @@ function All() {
           <Paper elevation={4} className={classes.paper} component="div">
               <div className={classes.svg}>
                  <div style={{margin:"20px", fontFamily: "'Montserrat', sans-serif"}}>
-                     Hi, welcome to my blog! My name is TingYu, Liu. I am an entry level software Developer. 
-                     I am currently searching for an opportunity to join a company to help increase the productivity and learn to build real world applications.
-                     I know this may sound a little cliche, but I do have passion to develop websites!
-                     Sometimes it could be a little challenging to debug and figure out complex structure. 
-                     But I like challenges! I am a good team player, I believe team work has the magic to enpower individually. 
-                     Please don't hesitate to contact me if you think I could potentially be a good fit to your position.
+                     Hi, welcome to my blog!  I am an full-stack software Developer with 2 years of work experience. 
+                     I enjoy creating products that bring postive effects to human beings with my software skills.
+                     I like to build various types of projects when I have chance to be more creative and maintain polished 
+                     programming skills. I am a sporty person, I love to play all sorts of sports and outdoor activities are 
+                     certainly my favorite.
+                     When I have a little time off I love to plan a travel. I love to explore different countries and learn their
+                     cultures.
+                     Software engineer is interesting but not easy, there are many apsects and challenges in the process 
+                     to create a good product. But solving problems and overcome challenges can never be a better way 
+                     to improve my skills! 
+                     I am a good team player, I believe team work has the magic to enpower individually. 
+                     You are more than welcome to contact me if you think I could potentially be a good fit to your position.
                  </div>
               </div>
             
