@@ -64,7 +64,7 @@ function Education() {
     return (
         <div className={classes.paper} style={{backgroundImage:{background}}}>
         
-            <div style={{paddingTop:"20px"}}>
+            <div style={{paddingTop:"100px"}}>
             <p className={classes.title}>Education Background</p>  
            
                 <ul className={classes.list} style={{listStyleType:"none"}}> 

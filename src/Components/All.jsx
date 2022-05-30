@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
   },
   svg: {
     width: 900,
-    height: 150,
+    height: 250,
     color:"#16213e",
     fontWeight:"bold"
     
